@@ -4,7 +4,6 @@ go 1.22.2
 
 require (
 	github.com/gen2brain/go-fitz v1.23.7
-	github.com/go-resty/resty/v2 v2.13.1
 	github.com/labstack/echo/v4 v4.12.0
 	gopkg.in/yaml.v3 v3.0.1
 )
