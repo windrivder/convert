@@ -1,0 +1,3 @@
+Addr: :8085
+OutputDir: ./static
+GotenbergAddr: http://11.33.176.11:8084

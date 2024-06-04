@@ -1,3 +1,3 @@
 Addr: :8085
 OutputDir: /app/static
-GotenbergAddr: http://gotenberg:8084
+GotenbergAddr: http://gotenberg:3000
